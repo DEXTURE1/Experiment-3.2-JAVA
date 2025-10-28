@@ -17,4 +17,4 @@ Project layout:
 
 Dependencies: spring-context, spring-core, spring-beans, spring-orm, spring-tx, hibernate-core, mysql-connector-j, HikariCP, jakarta.persistence-api, jakarta.transaction-api.
 
-Use this scaffold as the starting point for Parts A, B, and C of the experiment.
+Use this scaffold as the starting point for Parts A, B, and C of the experiments.
